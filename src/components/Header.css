@@ -1,0 +1,21 @@
+nav ul li {
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(78, 129, 129);
+    border-radius: 5px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: darkslategray;
+}
+
+nav {
+    background-color: darkslategray;
+    padding: 10px;
+}
